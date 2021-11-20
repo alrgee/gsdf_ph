@@ -1,0 +1,203 @@
+                                    /* MAIN PAGE */
+
+body{
+  padding-top: 20px;
+  padding-bottom: 0;
+  background-color: #c4a57e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%
+}
+
+.body-div {
+  margin: 5% 10% 1% 10%;
+}
+
+h1 {
+  font-size: 4.5rem;
+  font-family: 'Merriweather';
+  color: #9c5424;
+  margin: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Merriweather';
+  color: #9c5424;
+}
+
+.h2-title-up {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #9c5424;
+}
+
+.h2-title-down {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #58302d;
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #58302d;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #9c5424;
+  width: 3%;
+  margin-top: 60px;
+}
+
+li {
+  display: inline;
+}
+
+.sansa-img {
+  height: 350px;
+  width: 350px;
+}
+
+.BUTTON_BKS {
+  /* BUTTON FORMAT */
+   border-radius: 20px;
+   height: 5px;
+   width: 200px;
+   line-height: 5px;
+   padding: 22px;
+   background-color: #9c5424;
+   display: inline-block;
+   cursor: pointer;
+   margin: 1% 1% 0 1%;
+   /* TEXT FORMAT */
+   font-family: 'Merriweather';
+   font-size: 20px;
+   font-weight: 500;
+   text-decoration: none;
+   color: #ebcc8e;
+}
+
+.BUTTON_BKS:hover {
+   background: #58302d;
+   border: solid #FFFFFF 1px;
+}
+
+.bottom-container {
+  background-color: #9c5424;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 80px;
+}
+
+.footer-link {
+  text-decoration: none;
+  position: relative;
+  top: 15px;
+  color: #58302d;
+}
+
+.footer-link:hover {
+  font-weight: bold;
+  color: #ebcc8e;
+}
+
+.last-p  {
+  padding-top: 8px;
+  color: #ebcc8e;
+}
+
+.link-tabs {
+  padding-bottom: 100px;
+}
+
+                            /* END OF MAIN PAGE */
+
+                            /* INTRODUCTION */
+
+.intro-h3 {
+  text-align: justify;
+}
+
+.intro-BUTTON_BKS {
+  /* BUTTON FORMAT */
+   border-radius: 20px;
+   height: 5px;
+   width: 300px;
+   line-height: 5px;
+   padding: 22px;
+   background-color: #9c5424;
+   display: inline-block;
+   cursor: pointer;
+   margin: 1% 2% 0 1%;
+   /* TEXT FORMAT */
+   font-family: 'Merriweather';
+   font-size: 20px;
+   font-weight: 500;
+   text-decoration: none;
+   color: #ebcc8e;
+}
+
+.intro-BUTTON_BKS:hover {
+   background: #58302d;
+   border: solid #FFFFFF 1px;
+}
+
+                          /* END OF INTRODUCTION */
+
+                              /* DISCUSSION */
+.discussion-title-h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #9c5424;
+  margin-top: 5%
+}
+
+.discussion-h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #9c5424;
+  text-align: left;
+}
+
+.discussion-h3 {
+  text-align: left;
+}
+
+                          /* END OF DISCUSSION */
+
+                              /* REFERENCES */
+
+.reference-link {
+  font-size: 25px;
+  text-decoration: none;
+  position: relative;
+  top: 15px;
+  color: #9c5424;
+  display: block;
+}
+
+.reference-link:hover {
+  font-weight: bold;
+  color: #58302d;
+}
+
+.reference-body-div {
+  display: inline-block;
+  margin: 60px 100px 30px 55px;
+}
+
+.reference-img {
+  width: 200px;
+  height: 200px;
+}
+
+                          /* END OF REFERENCES */
